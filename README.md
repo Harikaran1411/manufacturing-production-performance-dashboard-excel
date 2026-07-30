@@ -2,29 +2,27 @@
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end Manufacturing Production Performance Dashboard developed in Microsoft Excel using a real-world manufacturing dataset.
-
-The dashboard provides interactive insights into production performance, quality metrics, downtime, operator productivity, plant performance, and scrap cost, enabling better operational monitoring and business decision-making.
+This project demonstrates an end-to-end Manufacturing Production Performance Dashboard built in Microsoft Excel. The dashboard transforms raw manufacturing data into interactive reports that help analyze production performance, quality metrics, downtime, operator productivity, and manufacturing efficiency.
 
 ---
 
 ## 🎯 Business Problem
 
-Manufacturing stakeholders lacked a centralized and interactive reporting solution to monitor production efficiency, downtime, quality performance, and operational KPIs across multiple plants and production lines.
-
-This dashboard was developed to transform raw production data into meaningful business insights through interactive reporting.
+Manufacturing teams often require a centralized reporting solution to monitor production, quality, downtime, and operational KPIs. This dashboard provides an interactive view of key manufacturing metrics to support data-driven decision-making.
 
 ---
 
 ## 📂 Dataset
 
-- 14,000+ Production Records
-- 33 Business Attributes
-- Manufacturing Operations Dataset
+- Sample manufacturing production dataset
+- **510 production records**
+- 33 attributes including production, quality, downtime, machine, operator, and cost information
+
+> **Note:** This repository contains a sample dataset (510 records) for demonstration purposes.
 
 ---
 
-## 🛠 Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -36,9 +34,9 @@ This dashboard was developed to transform raw production data into meaningful bu
 
 ---
 
-## 📈 Key Features
+## ✨ Key Features
 
-- Data Cleaning & Preprocessing
+- Data Cleaning and Preprocessing
 - Missing Value Handling
 - KPI Development
 - Pivot Table Analysis
@@ -59,46 +57,64 @@ This dashboard was developed to transform raw production data into meaningful bu
 - Availability Rate
 - Quality Rate
 - Defect Rate
-- Downtime %
-- Scrap Cost %
+- Downtime Percentage
+- Scrap Cost Percentage
 - Production Efficiency
 
 ---
 
-## 📷 Dashboard Preview
+## 📸 Project Preview
 
-(Add Dashboard Screenshot Here)
+### Dashboard
+(Add dashboard screenshot)
+
+### Pivot Tables
+(Add screenshot)
+
+### Pivot Charts
+(Add screenshot)
 
 ---
 
-## 📁 Project Files
+## 📁 Repository Contents
 
-📄 Manufacturing_Dashboard.xlsx
-
-📄 README.md
-
-📄 Dashboard_Screenshot.png
-
-📄 Pivot_Tables.png
-
-📄 Pivot_Charts.png
+```
+📂 Manufacturing-Production-Performance-Dashboard
+│
+├── Manufacturing_Dashboard.xlsx
+├── README.md
+└── images/
+    ├── dashboard.png
+    ├── pivot_tables.png
+    ├── pivot_charts.png
+    └── data_cleaning.png
+```
 
 ---
 
 ## 🚀 Skills Demonstrated
 
+- Microsoft Excel
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
-- Microsoft Excel
 - Data Visualization
+- Pivot Tables
+- Pivot Charts
 - KPI Reporting
 - Manufacturing Analytics
 - Business Intelligence
 
 ---
 
+## 📈 Project Outcome
+
+Developed an interactive Excel dashboard that enables users to monitor production performance, quality metrics, downtime, operator productivity, and manufacturing KPIs through dynamic visualizations and interactive filters.
+
+---
+
 ## 👨‍💻 Author
 
-Hari
+**Hari**
+
 Aspiring Data Analyst
